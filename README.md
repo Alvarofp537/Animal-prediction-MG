@@ -29,4 +29,4 @@ Las imágenes presentan dimensiones y proporciones variables, lo que nos obliga 
     id,category
     nombre_imagen, categoría
     ...
-    ´´´
+    
