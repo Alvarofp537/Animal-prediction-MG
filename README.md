@@ -23,4 +23,10 @@ Las imágenes presentan dimensiones y proporciones variables, lo que nos obliga 
 - Entrenamiento en dos fases:
   1. Entrenamiento inicial del clasificador.
   2. Re-entrenamiento/fine-tuning cargando el modelo previamente guardado.
+- El formato de subida del resultado será un archivo **.csv** con las siguientes columnas:
 
+    ```csv
+    id,category
+    nombre_imagen, categoría
+    ...
+    ´´´
